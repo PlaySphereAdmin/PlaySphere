@@ -1,0 +1,37 @@
+.footer {
+ font-family: arial;
+ }
+
+.topnav {
+ background-color: #abd085;
+ overflow: hidden;
+ }
+
+.topnav a {
+ float: left;
+ color: black;
+ text-align: center;
+ padding: 12px 14px;
+ text-decoration: none;
+ font-size: 17px;
+ font-family: arial;
+ }
+ 
+.topnav a:hover {
+ background-color: #739a4d;
+ color: black;
+ }
+
+.header h1 {
+ font-family: arial;
+ font-size: 41px;
+ }
+
+.header a {
+ font-family: arial;
+ font-size: 21px;
+ }
+
+.project h2 {
+ font-family: arial;
+ }
